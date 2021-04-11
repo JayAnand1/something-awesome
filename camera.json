@@ -1,0 +1,470 @@
+{
+    "devices": [
+        {
+            "ip": "192.168.1.127",
+            "mac": "98:01:a7:8a:e1:65",
+            "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36",
+            "vulnerabilities": [
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "H6TelmmHBQA=17de1b9c214f2844f1be7d923e5c0c1656f74bb3",
+                    "uri": "/axis-cgi/usergroup.cgi?timestamp=1617941578752",
+                    "algorithm": "MD5",
+                    "response": "1a7c18adc7c67214acb6bb09aa34391c",
+                    "qop": "auth",
+                    "nc": "00000001",
+                    "cnonce": "d93e94a4ca07f941",
+                    "method": "GET"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "H6TelmmHBQA=17de1b9c214f2844f1be7d923e5c0c1656f74bb3",
+                    "uri": "/axis-cgi/usergroup.cgi?timestamp=1617941586315",
+                    "algorithm": "MD5",
+                    "response": "eead94e889eefd73b3e03251d8bd1316",
+                    "qop": "auth",
+                    "nc": "00000002",
+                    "cnonce": "dea335cc4e5a1104",
+                    "method": "GET"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "H6TelmmHBQA=17de1b9c214f2844f1be7d923e5c0c1656f74bb3",
+                    "uri": "/axis-cgi/param.cgi",
+                    "algorithm": "MD5",
+                    "response": "7f961d0916e133b528274277b52b7873",
+                    "qop": "auth",
+                    "nc": "00000003",
+                    "cnonce": "29a7f19c2c40f9af",
+                    "method": "POST"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "H6TelmmHBQA=17de1b9c214f2844f1be7d923e5c0c1656f74bb3",
+                    "uri": "/axis-cgi/capturemode.cgi",
+                    "algorithm": "MD5",
+                    "response": "2168d3862f06cdd3fab17f47b71742d0",
+                    "qop": "auth",
+                    "nc": "00000004",
+                    "cnonce": "27addb59f51644ad",
+                    "method": "POST"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "H6TelmmHBQA=17de1b9c214f2844f1be7d923e5c0c1656f74bb3",
+                    "uri": "/axis-cgi/imagesize.cgi?camera=1&timestamp=1617941586927",
+                    "algorithm": "MD5",
+                    "response": "12729f9ee2967a75025af9abf88b4610",
+                    "qop": "auth",
+                    "nc": "00000005",
+                    "cnonce": "9f819425b9459b96",
+                    "method": "GET"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "H6TelmmHBQA=17de1b9c214f2844f1be7d923e5c0c1656f74bb3",
+                    "uri": "/axis-cgi/res_finder.cgi?action=overview_res&camera=1&timestamp=1617941586935",
+                    "algorithm": "MD5",
+                    "response": "aabe08b0451b4e874b6a559737fbd8ad",
+                    "qop": "auth",
+                    "nc": "00000006",
+                    "cnonce": "f114a817a22b8ef0",
+                    "method": "GET"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "H6TelmmHBQA=17de1b9c214f2844f1be7d923e5c0c1656f74bb3",
+                    "uri": "/axis-cgi/res_finder.cgi?action=max_resolution&camera=1&timestamp=1617941586944",
+                    "algorithm": "MD5",
+                    "response": "11ec58d5de79473a165fa3c73ee83dc3",
+                    "qop": "auth",
+                    "nc": "00000007",
+                    "cnonce": "e043671f247388e9",
+                    "method": "GET"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "H6TelmmHBQA=17de1b9c214f2844f1be7d923e5c0c1656f74bb3",
+                    "uri": "/axis-cgi/res_finder.cgi?action=resolutions&timestamp=1617941586948",
+                    "algorithm": "MD5",
+                    "response": "dd1eaa1d77c74434f73f292efd3a6a34",
+                    "qop": "auth",
+                    "nc": "00000008",
+                    "cnonce": "6b61d6f55907f26f",
+                    "method": "GET"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "H6TelmmHBQA=17de1b9c214f2844f1be7d923e5c0c1656f74bb3",
+                    "uri": "/axis-cgi/disks/list.cgi?diskid=all&timestamp=1617941586950",
+                    "algorithm": "MD5",
+                    "response": "d85b7ffbfcf0ff38a5bfee8084fc28af",
+                    "qop": "auth",
+                    "nc": "00000009",
+                    "cnonce": "05d8a44965fdac0d",
+                    "method": "GET"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "H6TelmmHBQA=17de1b9c214f2844f1be7d923e5c0c1656f74bb3",
+                    "uri": "/axis-cgi/param.cgi",
+                    "algorithm": "MD5",
+                    "response": "ab2e67d1525e2be56357a8db5b7b9b31",
+                    "qop": "auth",
+                    "nc": "0000000a",
+                    "cnonce": "f02fd0959b222da3",
+                    "method": "POST"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "PiZcl2mHBQA=7b9a03a27450dd08f80384fc3cb5e24f70038f86",
+                    "uri": "/rtsp-over-websocket",
+                    "algorithm": "MD5",
+                    "response": "c8050abf0ad147de7abcd50068b86dcb",
+                    "qop": "auth",
+                    "nc": "00000001",
+                    "cnonce": "85465ce16bbfe8b6",
+                    "method": "GET"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "PiZcl2mHBQA=7b9a03a27450dd08f80384fc3cb5e24f70038f86",
+                    "uri": "/axis-cgi/apidiscovery.cgi",
+                    "algorithm": "MD5",
+                    "response": "1fa2824543682d1122d338feacc36b15",
+                    "qop": "auth",
+                    "nc": "00000002",
+                    "cnonce": "45b98bde2282e567",
+                    "method": "POST"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "PiZcl2mHBQA=7b9a03a27450dd08f80384fc3cb5e24f70038f86",
+                    "uri": "/vapix/services",
+                    "algorithm": "MD5",
+                    "response": "f7476a67367e775349151498482e2291",
+                    "qop": "auth",
+                    "nc": "00000003",
+                    "cnonce": "c98bcceed9299585",
+                    "method": "POST"
+                },
+                {
+                    "\n    <SOAP-ENV:Envelope xmlns:wsdl": "\"http://schemas.xmlsoap.org/wsdl/\" xmlns:aentry"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "PiZcl2mHBQA=7b9a03a27450dd08f80384fc3cb5e24f70038f86",
+                    "uri": "/jpg/image.jpg?overview=0&camera=1&resolution=1280x720&fps=30&timestamp=1617941589828&Axis-Orig-Sw=true",
+                    "algorithm": "MD5",
+                    "response": "9f02ddc6f8485d9eede6fa32e53d7e50",
+                    "qop": "auth",
+                    "nc": "00000004",
+                    "cnonce": "d691cab5f181a5dc",
+                    "method": "GET"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "PiZcl2mHBQA=7b9a03a27450dd08f80384fc3cb5e24f70038f86",
+                    "uri": "/axis-cgi/param.cgi",
+                    "algorithm": "MD5",
+                    "response": "e7737472f376a39bb38dffbd4d5c28fd",
+                    "qop": "auth",
+                    "nc": "00000005",
+                    "cnonce": "d002b46083b098fa",
+                    "method": "POST"
+                },
+                {
+                    "action": "list",
+                    "group": "Image.I0.Enabled"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "PiZcl2mHBQA=7b9a03a27450dd08f80384fc3cb5e24f70038f86",
+                    "uri": "/axis-cgi/record/continuous/listconfiguration.cgi?_=1617941575978",
+                    "algorithm": "MD5",
+                    "response": "43da9e8fbd4e7c26f3d7bc89a36e570f",
+                    "qop": "auth",
+                    "nc": "00000006",
+                    "cnonce": "a68e19581e40d0b0",
+                    "method": "GET"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "PiZcl2mHBQA=7b9a03a27450dd08f80384fc3cb5e24f70038f86",
+                    "uri": "/axis-cgi/param.cgi",
+                    "algorithm": "MD5",
+                    "response": "7c2b97eab1b6bba19cdd8f0db2e09906",
+                    "qop": "auth",
+                    "nc": "00000007",
+                    "cnonce": "e0eac3d2865a5d4b",
+                    "method": "POST"
+                },
+                {
+                    "action": "listdefinitions",
+                    "listformat": "xmlschema",
+                    "responseformat": "rfc",
+                    "responsecharset": "utf8",
+                    "group": "GuardTour"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "PiZcl2mHBQA=7b9a03a27450dd08f80384fc3cb5e24f70038f86",
+                    "uri": "/axis-cgi/param.cgi",
+                    "algorithm": "MD5",
+                    "response": "eb3f5bd9c643aaf2e0a88a5cd1f0906d",
+                    "qop": "auth",
+                    "nc": "00000008",
+                    "cnonce": "775693fa1292044f",
+                    "method": "POST"
+                },
+                {
+                    "action": "list",
+                    "group": "Properties.GuardTour.MinGuardTourWaitTime"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "PiZcl2mHBQA=7b9a03a27450dd08f80384fc3cb5e24f70038f86",
+                    "uri": "/vapix/services",
+                    "algorithm": "MD5",
+                    "response": "1a14b890126ba8bebad763e4cb2f34c0",
+                    "qop": "auth",
+                    "nc": "00000009",
+                    "cnonce": "3eb74a11afdab023",
+                    "method": "POST"
+                },
+                {
+                    "<?xml version": "\"1.0\" encoding"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "PiZcl2mHBQA=7b9a03a27450dd08f80384fc3cb5e24f70038f86",
+                    "uri": "/vapix/services",
+                    "algorithm": "MD5",
+                    "response": "ac4b564efe693dc91360f9f3f51c36a6",
+                    "qop": "auth",
+                    "nc": "0000000a",
+                    "cnonce": "c849cbfa9822e74e",
+                    "method": "POST"
+                },
+                {
+                    "<?xml version": "\"1.0\" encoding"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "PiZcl2mHBQA=7b9a03a27450dd08f80384fc3cb5e24f70038f86",
+                    "uri": "/local/axis-onscreencontrols/onscreencontrols.cgi",
+                    "algorithm": "MD5",
+                    "response": "b91de28afc5482d63342f45e3deff1d7",
+                    "qop": "auth",
+                    "nc": "0000000b",
+                    "cnonce": "9c74203114a5e73f",
+                    "method": "POST"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "PiZcl2mHBQA=7b9a03a27450dd08f80384fc3cb5e24f70038f86",
+                    "uri": "/axis-cgi/param.cgi?action=list&group=ImageSource.I0.Sensor.ExposureManualMode&timestamp=1617941595650",
+                    "algorithm": "MD5",
+                    "response": "73ece9f37ee96f954895c4e39f1653fc",
+                    "qop": "auth",
+                    "nc": "0000000c",
+                    "cnonce": "3b42641b78dce7fd",
+                    "method": "GET"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "PiZcl2mHBQA=7b9a03a27450dd08f80384fc3cb5e24f70038f86",
+                    "uri": "/axis-cgi/shuttergain.cgi",
+                    "algorithm": "MD5",
+                    "response": "59cef063f3655b4db744377d3c3c3b97",
+                    "qop": "auth",
+                    "nc": "0000000d",
+                    "cnonce": "d4bd45493ea93f36",
+                    "method": "POST"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "PiZcl2mHBQA=7b9a03a27450dd08f80384fc3cb5e24f70038f86",
+                    "uri": "/axis-cgi/shuttergain.cgi",
+                    "algorithm": "MD5",
+                    "response": "c6902b003a9b7e27ffe7074f3fb3dafd",
+                    "qop": "auth",
+                    "nc": "0000000e",
+                    "cnonce": "1904ee819f2ccd3c",
+                    "method": "POST"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "PiZcl2mHBQA=7b9a03a27450dd08f80384fc3cb5e24f70038f86",
+                    "uri": "/axis-cgi/param.cgi",
+                    "algorithm": "MD5",
+                    "response": "0990311ba020bc2978d3d2bc281619af",
+                    "qop": "auth",
+                    "nc": "0000000f",
+                    "cnonce": "b201652ad9374820",
+                    "method": "POST"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "PiZcl2mHBQA=7b9a03a27450dd08f80384fc3cb5e24f70038f86",
+                    "uri": "/axis-cgi/applications/list.cgi?timestamp=1617941597127",
+                    "algorithm": "MD5",
+                    "response": "80fae2596aeb82144eb2d7f34dd0002c",
+                    "qop": "auth",
+                    "nc": "00000010",
+                    "cnonce": "8607fea7fae9019e",
+                    "method": "GET"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "PiZcl2mHBQA=7b9a03a27450dd08f80384fc3cb5e24f70038f86",
+                    "uri": "/axis-cgi/packagemanager.cgi",
+                    "algorithm": "MD5",
+                    "response": "023157e59a7bcfd627860556b250db22",
+                    "qop": "auth",
+                    "nc": "00000011",
+                    "cnonce": "6f64b4d472464610",
+                    "method": "POST"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "PiZcl2mHBQA=7b9a03a27450dd08f80384fc3cb5e24f70038f86",
+                    "uri": "/",
+                    "algorithm": "MD5",
+                    "response": "f34485bafa132cfcf8fd17e879d48fca",
+                    "qop": "auth",
+                    "nc": "00000012",
+                    "cnonce": "824c3115f17f3396",
+                    "method": "GET"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "PiZcl2mHBQA=7b9a03a27450dd08f80384fc3cb5e24f70038f86",
+                    "uri": "/",
+                    "algorithm": "MD5",
+                    "response": "fe6f166fe157235120a631fba73648aa",
+                    "qop": "auth",
+                    "nc": "00000013",
+                    "cnonce": "73fdc7cf93d89b22",
+                    "method": "GET"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "PiZcl2mHBQA=7b9a03a27450dd08f80384fc3cb5e24f70038f86",
+                    "uri": "/wsdl/onvif/devicemgmt.wsdl",
+                    "algorithm": "MD5",
+                    "response": "9ac3891158f8a8ffbea0c5a1bc648097",
+                    "qop": "auth",
+                    "nc": "00000014",
+                    "cnonce": "4cd1d589ca0f601e",
+                    "method": "GET"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "PiZcl2mHBQA=7b9a03a27450dd08f80384fc3cb5e24f70038f86",
+                    "uri": "/css/23.190240d3b9f6e10ec634.css",
+                    "algorithm": "MD5",
+                    "response": "f3ee61a289b6e44a730403310c67daf4",
+                    "qop": "auth",
+                    "nc": "00000015",
+                    "cnonce": "0c7beb48caf16094",
+                    "method": "GET"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "PiZcl2mHBQA=7b9a03a27450dd08f80384fc3cb5e24f70038f86",
+                    "uri": "/users.190240d3b9f6e10ec634.bundle.js",
+                    "algorithm": "MD5",
+                    "response": "7525ffbc911e57f6f5817d1591e96371",
+                    "qop": "auth",
+                    "nc": "00000016",
+                    "cnonce": "7bf9017b04960015",
+                    "method": "GET"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "PiZcl2mHBQA=7b9a03a27450dd08f80384fc3cb5e24f70038f86",
+                    "uri": "/axis-cgi/pwdgrp.cgi",
+                    "algorithm": "MD5",
+                    "response": "2242656e15b68905cc672e8f90070010",
+                    "qop": "auth",
+                    "nc": "00000017",
+                    "cnonce": "fda6e17ce8cd5691",
+                    "method": "POST"
+                },
+                {
+                    "action": "get"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "PiZcl2mHBQA=7b9a03a27450dd08f80384fc3cb5e24f70038f86",
+                    "uri": "/axis-cgi/param.cgi",
+                    "algorithm": "MD5",
+                    "response": "4e2ea87731f9f0cbdb99d1f0c6cf8784",
+                    "qop": "auth",
+                    "nc": "00000018",
+                    "cnonce": "a8da6bcbe6e1a5d8",
+                    "method": "POST"
+                },
+                {
+                    "action": "list",
+                    "group": "System.BoaProtViewer,PTZ.BoaProtPTZOperator"
+                },
+                {
+                    "Digest username": "admin",
+                    "realm": "AXIS_ACCC8EC5A100",
+                    "nonce": "PiZcl2mHBQA=7b9a03a27450dd08f80384fc3cb5e24f70038f86",
+                    "uri": "/axis-cgi/pwdgrp.cgi",
+                    "algorithm": "MD5",
+                    "response": "ffaac9dea9f7fcc1dd92d2baed92a751",
+                    "qop": "auth",
+                    "nc": "00000019",
+                    "cnonce": "00f8be456675fbb7",
+                    "method": "POST"
+                },
+                {
+                    "action": "add",
+                    "user": "Bob",
+                    "pwd": "bob123",
+                    "grp": "users",
+                    "strict_pwd": "1",
+                    "sgrp": "viewer"
+                }
+            ]
+        }
+    ]
+}
